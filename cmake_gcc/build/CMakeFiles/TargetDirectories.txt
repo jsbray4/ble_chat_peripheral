@@ -1,0 +1,4 @@
+/Users/jessebray/SimplicityStudio/v6_workspace/ble_chat_peripheral/cmake_gcc/build/CMakeFiles/slc.dir
+/Users/jessebray/SimplicityStudio/v6_workspace/ble_chat_peripheral/cmake_gcc/build/CMakeFiles/ble_chat_peripheral.dir
+/Users/jessebray/SimplicityStudio/v6_workspace/ble_chat_peripheral/cmake_gcc/build/CMakeFiles/edit_cache.dir
+/Users/jessebray/SimplicityStudio/v6_workspace/ble_chat_peripheral/cmake_gcc/build/CMakeFiles/rebuild_cache.dir
